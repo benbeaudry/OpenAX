@@ -1,4 +1,4 @@
-# Accessibility Innovation
+# Accessibility Innovations
 Author: Benjamin Beaudry  
 Last updated: 9/15/2023
 
