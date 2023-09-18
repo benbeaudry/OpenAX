@@ -16,6 +16,12 @@ This paper underscores the immediate need for collective action among industry s
 * Foster dialogue and collective action among industry stakeholders.
 * Facilitate widespread innovation in the field of accessibility.
 
+## Principles to live by
+* Web browsers should provide accessibility out of the box; web authors shouldn't have to worry about it too much. Unless editing accessibility-related properties explicitly and therefore risking making mistakes, their web content should be accessible by default.
+* Web authors should be empowered to create brand-new accessible experiences. This involves providing them with the resources to pioneer new solutions in the field of accessibility, without burdening them with the task of learning how to achieve basic levels of accessibility themselves. This ensures continual growth in the accessibility space.
+* Assistive technologies should be empowered to be cross-platform or standardized. This would allow for habituating experiences across platforms, just like web content visually looks the same no matter the platform you're on.
+* On-the-go generated user interfaces have a unique potential to serve people with any kind of disabilities - whether physical or cognitive. By generating tailor-made user interfaces built in the preferred medium of a specific person, we could redefine what digital accessibility means today. These are not possible today due to a lack of technology enabling content to flow freely between an AT and web content.
+
 ## Introduction: Accessibility is stuck
 The web is advancing at an unprecedented pace, yet the progress in accessibility remains painfully slow. This stagnation doesn't just sideline those with disabilities — it risks deepening the divide. But don't mistake this lag for a lack of vision or willpower. Our community is buzzing with unprecedented levels of expertise and eagerness for change. The true culprits of this issue? A slow and clunky system to make improvements, cluttered by layers of bureaucracy, and a lack of extensible technology that would allow for fast prototyping when it comes to accessibility.
 
@@ -283,6 +289,13 @@ This is a *very* ambitious idea, but I think it's important to go over why this 
 
 ## Next steps
 My goal with this document was to go over what I believe to be the largest problem in the accessibility space and to introduce possible areas of improvement. While the ideas presented here may not yet be fully formed to stand independently, I hope they are substantial enough to initiate a meaningful discussion on the subject. Needless to say, any of these solutions would involve a large number of individuals, standard bodies, and organizations cooperating and a large upfront investment. I am confident that, over time, the initial investment will yield returns by lowering the costs of current solution implementations and by increasing both social and financial benefits through expanded user engagement.
+
+## Core beliefs informing this paper
+I wrote this document with a set of core beliefs in mind; a set of principles for the future of digital inclusivity.
+* Web browsers (and platforms) should provide accessibility out of the box; web authors shouldn't have to worry about it too much. Unless editing accessibility-related properties explicitly and therefore risking making mistakes, their web content should be accessible by default.
+* Web authors (and platform developers) should be empowered to create brand-new accessible experiences. This involves providing them with the resources to pioneer new solutions in the field of accessibility, without burdening them with the task of learning how to achieve basic levels of accessibility themselves. This ensures continual growth in the accessibility space.
+* Assistive technologies should be empowered to be cross-platform or standardized. This would allow for habituating experiences across platforms, just like web content visually looks the same no matter the platform you're on.
+* On-the-go generated user interfaces have a unique potential to serve people with any kind of disabilities - whether physical or cognitive. By generating tailor-made user interfaces built in the preferred medium of a specific person, we could redefine what digital accessibility means today. These are not possible today due to a lack of technology enabling content to flow freely between an AT and web content.
 
 Whether you agree or disagree, contributions of any kind are welcomed! Please take an active part in improving the future of digital accessibility by contributing to the discussion in the issues section of this repo, or by filing a new one.
   
