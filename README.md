@@ -1,4 +1,4 @@
-# Accessibility Innovations
+# Democratize Innovation in Accessibility
 Author: Benjamin Beaudry  
 Last updated: 9/15/2023
 
