@@ -2,6 +2,8 @@
 Author: Benjamin Beaudry  
 Last updated: 9/15/2023
 
+> Disclaimer: All opinions and ideas in this document are my own.
+
 ## Abstract
 The web platform evolves at an unparalleled rate, largely propelled by the extensive resources provided to web developers to innovate and compete. The same catalyst for innovation — technologies that empower developers — is noticeably absent when it comes to accessibility. A complex approval process, limited Application Programming Interfaces (APIs), and an outdated focus on graphical user interfaces create significant roadblocks. This stagnation doesn't just affect those with disabilities; it risks widening societal divides, making it a pressing issue that requires immediate attention.
 
